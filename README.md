@@ -8,4 +8,4 @@ The conventional solver can refer to [here](https://github.com/zaman13/Three-Bod
 
 For more vivid explanation, please see [this article](https://zhuanlan.zhihu.com/p/588949798)
 
-Our goal is to find stable solutions as much as possible, like what Prof. 廖世俊 did [here](https://news.sjtu.edu.cn/jdzh/20220606/172074.html)
+Our goal is using machine learning to find stable solutions of three-body motion as much as possible, like what Prof. 廖世俊 did [here](https://news.sjtu.edu.cn/jdzh/20220606/172074.html)
